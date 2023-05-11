@@ -10,7 +10,8 @@ python extract_text_from_pptx.py <pptx_file_path>
 ```
 or
 ```sh
-# remember to change the "#!/usr/bin/python3" in the source code to the path of your python interpreter
+# remember to change the "#!/usr/bin/python3" in the
+# source code to the path of your python interpreter
 ./extract_text_from_pptx.py <pptx_file_path>
 ```
 
